@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis and love to create sports related projects
 - 🌱 I’m currently learning SQL and Machine Learning
 - 📫 **Reach me:** - [LinkedIn](https://www.linkedin.com/in/-zaidkhan)- [Email](mailto:khanzai6@msu.edu)
-- - 📄 **[Resume](https://github.com/file:///Users/zaidkhan/Downloads/Official%20Zaid%20Khan%20Resume.pdf)**
+- 📄 **[Resume](file:///Users/zaidkhan/Downloads/Official%20Zaid%20Khan%20Resume.pdf)**
 
   
   
