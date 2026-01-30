@@ -1,5 +1,5 @@
 - 👋 Hi, I’m my name is Zaid Khan and I am a sophmore at Michigan State University studying Data Science
-- 👀 I’m interested in Data Analysis and love to create sports related projects
+- 👀 I’m interested in Data Analysis and love to create sports related projects. Tableau:https://public.tableau.com/app/profile/zaid.khan7440/viz/AddidasSalesDashboard_17697585261840/Dashboard1?publish=yes
 - 🌱 I’m currently learning SQL and Machine Learning
 - 📫 **Reach me:** - [LinkedIn](https://www.linkedin.com/in/-zaidkhan)- [Email](mailto:khanzai6@msu.edu)
 
